@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "8b34539d-13e8-4a66-96eb-c48f2442e48c",
+    "name": "Eric Schoen",
+    "phone": "(682) 858-5743 x5545",
+    "email": "Kameron.Mann@yahoo.com",
+    "job": "Regional Branding Administrator"
+  },
+  {
+    "id": "2316adf2-9814-4b8b-bac8-e533c865e8ad",
+    "name": "Karen Nienow",
+    "phone": "268.863.1365",
+    "email": "Reanna41@hotmail.com",
+    "job": "Customer Integration Liaison"
+  },
+  {
+    "id": "400e5d89-b242-4086-b935-30060d7827ea",
+    "name": "Lewis Douglas",
+    "phone": "(365) 236-9920 x9378",
+    "email": "Sheldon_Haag-Bayer@gmail.com",
+    "job": "Customer Operations Associate"
+  }
+]
